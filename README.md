@@ -10,3 +10,7 @@ Labyrinth generation and resolution algorithms, optimized for performance
 * A* [wikipedia page](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * Breadth [wikipedia page](https://en.wikipedia.org/wiki/Breadth-first_search)
 * Depth [wikipedia page](https://en.wikipedia.org/wiki/Depth-first_search)
+
+## Authors
+* Bastien Rinck
+* Thibaut Cornolti
