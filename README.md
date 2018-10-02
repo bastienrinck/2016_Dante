@@ -1,4 +1,4 @@
-# Dante
+# 2016_Dante
 Labyrinth generation and resolution algorithms, optimized for performance
 
 **Subject [here](https://github.com/thibautcornolti/Dante/blob/master/Subject.pdf)**
