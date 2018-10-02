@@ -19,7 +19,7 @@ NAME		=	generator
 
 INCLUDE		=	-I./include/
 
-CFLAGS		+=	 $(INCLUDE) -g -O3 -W -Wall -Wextra -03
+CFLAGS		+=	 $(INCLUDE) -g -O3 -W -Wall -Wextra -O3
 
 REDDARK         =       \033[31;2m
 

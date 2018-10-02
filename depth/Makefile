@@ -17,7 +17,7 @@ NAME		=	solver
 
 INCLUDE		=	-I./include/
 
-CFLAGS		+=	 $(INCLUDE) -W -Wall -Wextra -pedantic -03
+CFLAGS		+=	 $(INCLUDE) -W -Wall -Wextra -pedantic -O3
 
 REDDARK         =       \033[31;2m
 
